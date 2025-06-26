@@ -59,20 +59,21 @@ Choice-Canvas/
 - Scenarios are saved in your browser using localStorage
 - Reload the page and continue where you left off
 
-📸 Screenshot
+---
 ![image](https://github.com/user-attachments/assets/29247604-e225-4519-8640-f7a2feda2193)
+---
+#🏢 Internship Project:
 
-🏢 Internship Project
 Built as part of my Web Development Internship at VaultofCodes, this project helped me apply JavaScript DOM manipulation, event handling, and local storage to create a user-focused interactive tool.
 
-🤝 Contributions
+#🤝 Contributions
 Suggestions and pull requests are welcome!
 Feel free to fork and enhance the project.
 
-🙌 Acknowledgements
+#🙌 Acknowledgements
 Inspired by the idea that visualizing possibilities helps in making mindful decisions. Built to support reflection, exploration, and growth through code.
 
-📬 Contact
+#📬 Contact
 Author: Rosanne Chugh
 - 📧 Email: rosannechugh@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/rosanne-chugh-34b795304/
