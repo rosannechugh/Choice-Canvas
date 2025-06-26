@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Choice Canvas - What-If Scenario Builder </title>
+        <link rel ="stylesheet" href="style.css">
+
+    </head>
+    <body>
+        <div class="container">
+            <h1> 🎨 Choice Canvas </h1>
+            <p> Map out life's "What-Ifs" and explore your possibilities </p>
+            <input type="text" id="main-question" placeholder="What if I... ?"/>
+            <button onclick="startscenario()">Start Scenario </button>
+            <div id="scenario-builder" class="hidden">
+                <h2 id="scenario-title"></h2>
+                <div id="choices-section">
+                    <input type="text" id="choice-input" placeholder="Enter a choice..."/>
+                    <input type="text" id="outcome-input" placeholder="What would happen?" />
+                    <button onclick="addchoice()"> Add Possible Outcomes </button>
+                    </div>
+                    <ul id="scenario-tree"></ul>
+                    <button onclick="savescenario()"> 💾 Save Scenario </button>
+                    </div>
+                    </div>
+        <script src="script.js"></script>
+    </body>
+    </html>
